@@ -8,9 +8,8 @@
 * May 2018: Our backscattering platform accepted on IEEE Internet of Things (IF 7.595)
 
 ### Research Projects
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-# Gaze assisted Network Resource Optimization: WebGaze, F-Player
-## Papers: MMSys 16, NSDI 17
+* Gaze assisted Network Resource Optimization: WebGaze, F-Player
+-- Papers: MMSys 16, NSDI 17
 # Backscatter Communication and Activity Monitoring: B-CSI
 ## Papers: MSWiM 15, MobiSys 18, IEEE IoT 18, ICASSP 19
 # Protocol to Tiered Access for Shared Spectrum: PTASS
