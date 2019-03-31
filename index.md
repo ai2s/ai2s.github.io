@@ -22,3 +22,10 @@
 
 * 2018, OpenLTE platform implementation for 5G - TP(Incheon Techno Park), PI 
 * 2017 - 2020, SALI360: Saliency-based 360 video streaming service — NRF(National Research Foundation), PI
+
+### Research Topics and Trends
+* [Video Streaming](https://github.com/ai2s/video)
+* [Backscattering](https://github.com/ai2s/video)
+* [Cross Technology Communication](https://github.com/ai2s/video)
+* [GPS Spoofing and Detection](https://github.com/ai2s/video)
+* [Laser Powering](https://github.com/ai2s/video)
