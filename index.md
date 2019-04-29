@@ -3,6 +3,7 @@
 
 ### News
 * We are recruting POST-DOC fellows, Ph.D. Students, Master Students
+* April 2019, Two research posters are accepted on MobiSys 2019 POSTER session.
 * April 2019, My research group AI2S awarded by head of IITP (IITP 정보통신기획평가원 원장상) for our excellence research
 * April 2019, My Ph.D. student Duin Back awarded by head of IITP (IITP 정보통신기획평가원 원장상) for his excellence research
 * March 2019, Prof. Jihoon will serve MobiSys 2019 as Organizing Committee (Registration Chair)
