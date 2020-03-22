@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['Research', 'Members', 'Publications', 'Courses', 'Awards', 'Media', 'FAQ']
+header_page_refs: ['Research', 'now', 'about', 'contact']
