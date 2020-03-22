@@ -3,7 +3,7 @@ description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll 
 show_downloads: true
 
 baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+url: "https://ai2s.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['members', 'now', 'about', 'contact']
+header_page_refs: ['now2', 'about', 'contact']
